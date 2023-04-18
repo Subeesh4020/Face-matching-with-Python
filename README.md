@@ -1,6 +1,6 @@
 # Face-matching-with-Python
 Python face recognition environment setup
-1.	Install visual studio latest version (2019)
+1.	Install visual studio latest version
 2.	Install python for visual studio, C++ for Visual studio, Node.js for visual studio using visual studio installer
 3.	Open power shell / any terminal like VS code terminal
 4.	Move to the location where you want to create your face recognition project (e.g., cd E:\Projects\python\faceRecognition)
